@@ -15,3 +15,4 @@ I find myself using Apple Scripting to automate Calendar interactions (and other
   * Creating a calendar event by providing calendar name, start date, end date, and event title
   * Finding/Deleting a calendar event by providing calendar name, start date, end date, and event title
 * Future functionality may include the ability to add/search other event parameters allowed by Calendar
+* .scpt files are compiled files, but can be viewed and edited in Script Editor. I've also included the same code as .js files for ease of viewing online

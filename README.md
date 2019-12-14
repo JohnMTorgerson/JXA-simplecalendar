@@ -10,7 +10,7 @@ I find myself using Apple Scripting to automate Calendar interactions (and other
 ## Usage:
 
 * Place simplecalendar.scpt into ~/Library/Script Libraries, and call from within your script as documented by Apple (i.e. *var calendar = Library('simplecalendar')*)
-* See *example.scpt* for available methods
+* See *example.scpt* for usage
 * Current functionality is limited to:
   * Creating a calendar event by providing calendar name, start date, end date, and event title
   * Finding/Deleting a calendar event by providing calendar name, start date, end date, and event title
